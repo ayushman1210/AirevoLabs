@@ -20,8 +20,8 @@ PORT=3000
 - API Endpoints
 - POST
 - api/v1/evaluate-answer
-- :Evaluates answer and stores score.
+- Evaluates answer and stores score.
 
 - GET
-- - api/v1/rank-candidates
+- api/v1/rank-candidates
 - Returns all scores sorted (high → low).
