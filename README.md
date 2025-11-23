@@ -15,8 +15,8 @@ npm install
 Create .env
 GEMINI_API_KEY=your_key_here
 PORT=3000
-
-
+```
+#Endpoints 
 - API Endpoints
 POST /evaluate-answer :Evaluates answer and stores score.
 
