@@ -1,4 +1,4 @@
-# AeroAI — Mini AI Interview Screener
+# AirevoAI — Mini AI Interview Screener
 
 A backend service that evaluates answers using Gemini AI and ranks all candidates.
 
